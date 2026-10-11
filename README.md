@@ -59,9 +59,8 @@ These are scenario sensitivity calculations, **not validated expected credit los
 - `analyze.py` — dataset ingestion, logistic regression, evaluations and outputs
 - `portfolio_queries.sql` — SQL portfolio summaries
 - `requirements.txt` — Python dependencies
-- `outputs/review_strategy.csv` — top-20% review analysis
+- `review_strategy.csv` — top-20% review analysis
 - `outputs/model_metrics.csv` — holdout classification metrics
-- `outputs/holdout_risk_scores.csv` — account-level predicted PDs and observed outcomes
 - `outputs/stress_scenarios.csv` — illustrative loss sensitivity
 - `outputs/sql_risk_summary.csv` — segment-level SQL results
 - `outputs/roc_curve.png`, `outputs/calibration.png` — diagnostic charts
