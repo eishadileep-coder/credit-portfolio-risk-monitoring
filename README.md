@@ -70,14 +70,21 @@ These are scenario sensitivity calculations, **not validated expected credit los
 
 ## Run locally
 
-Install dependencies and run:
+Install the required Python libraries:
 
 ```bash
 python -m pip install -r requirements.txt
+```
+
+Run the analysis:
+
+```bash
 python analyze.py
 ```
 
-On systems where `python` is not on PATH, use the installed Python executable directly. The script downloads the source dataset on execution and regenerates the `outputs/` directory.
+The script downloads the historical dataset and generates the analysis files in the `outputs/` directory.
+
+If `python` is not recognized, use the full path to your Python installation.
 
 ## Limitations and source
 
