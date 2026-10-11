@@ -1,0 +1,6 @@
+,value
+ROC AUC,0.7155275850834744
+PR AUC,0.5023142802824088
+Brier score,0.1455809151555846
+Test defaults rate,0.2212
+Test observations,7500.0

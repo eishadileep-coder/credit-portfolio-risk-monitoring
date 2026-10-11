@@ -1,0 +1,4 @@
+scenario,pd_multiplier,assumed_LGD,credit_limit_proxy_total_TWD,illustrative_expected_loss_TWD
+Baseline,1.0,0.6,1257247680.0,128890557.63519013
+Downturn,1.25,0.6,1257247680.0,160937478.24098784
+Severe,1.6,0.6,1257247680.0,204563176.29926687

@@ -1,0 +1,2 @@
+review_share,reviewed_accounts,total_accounts,total_observed_defaults,defaults_in_review_group,review_group_default_rate,default_capture_rate,random_selection_expected_capture_rate,lift_vs_random
+0.2,1500,7500,1659,805,0.5366666666666666,0.48523206751054854,0.2,2.4261603375527425

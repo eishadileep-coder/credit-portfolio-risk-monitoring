@@ -1,0 +1,5 @@
+risk_band,accounts,mean_predicted_default_probability,observed_default_rate,total_limit_proxy
+Low,1398,0.062,0.1195,400167680.0
+Moderate,2540,0.1507,0.1366,492590000.0
+Elevated,2563,0.2542,0.2005,276790000.0
+High,999,0.5509,0.6316,87700000.0
