@@ -34,11 +34,11 @@ The review analysis is **retrospective**: it shows that high-scored accounts con
 
 ### ROC curve
 
-![Holdout ROC curve](outputs/roc_curve.png)
+![Holdout ROC curve](roc_curve.png)
 
 ### Calibration
 
-![Holdout calibration by risk decile](outputs/calibration.png)
+![Holdout calibration by risk decile](calibration.png)
 
 The calibration plot indicates discrepancies between predicted and observed default rates, especially in higher-risk segments. This limits the reliability of probability-based monetary loss estimates.
 
